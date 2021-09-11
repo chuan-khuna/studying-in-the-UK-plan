@@ -1,8 +1,8 @@
 ---
-title: {{title}}
+title: UK
 tag:
 aliases:
-- 
+- United Kingdom
 ---
 
 metadata:
@@ -11,4 +11,4 @@ metadata:
 
 ---
 
-# {{title}}
+# UK

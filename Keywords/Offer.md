@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: Offer
 tag:
 aliases:
 - 
@@ -8,7 +8,7 @@ aliases:
 metadata:
 - references:
 - related to:
-
+	- #keyword 
 ---
 
-# {{title}}
+# Offer

@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: DRS
 tag:
 aliases:
 - 
@@ -11,4 +11,4 @@ metadata:
 
 ---
 
-# {{title}}
+# DRS

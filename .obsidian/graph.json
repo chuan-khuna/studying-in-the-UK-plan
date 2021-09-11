@@ -3,28 +3,49 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:#study",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5408992
+      }
+    },
+    {
+      "query": "tag:#work",
+      "color": {
+        "a": 1,
+        "rgb": 11982428
+      }
+    },
+    {
+      "query": "tag:#keyword",
+      "color": {
+        "a": 1,
+        "rgb": 15498478
+      }
+    },
+    {
+      "query": "path:Notes",
+      "color": {
+        "a": 1,
+        "rgb": 16739420
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "lineSizeMultiplier": 0.661458333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.203125,
+  "repelStrength": 10.1041666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224427,
-  "close": false
+  "linkDistance": 282,
+  "scale": 0.6064860004825756,
+  "close": true
 }

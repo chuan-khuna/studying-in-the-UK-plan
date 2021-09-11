@@ -1,8 +1,8 @@
 ---
-title: {{title}}
+title: Master Degree
 tag:
 aliases:
-- 
+- MSc
 ---
 
 metadata:
@@ -11,4 +11,4 @@ metadata:
 
 ---
 
-# {{title}}
+# Master Degree

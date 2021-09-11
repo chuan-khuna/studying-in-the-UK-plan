@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: Computer Science Degree
 tag:
 aliases:
 - 
@@ -11,4 +11,4 @@ metadata:
 
 ---
 
-# {{title}}
+# Computer Science Degree

@@ -1,14 +1,12 @@
 ---
-title: {{title}}
+title: Data Science Degree
 tag:
-aliases:
-- 
 ---
 
 metadata:
 - references:
 - related to:
-
+	-	
 ---
 
-# {{title}}
+# Data Science Degree

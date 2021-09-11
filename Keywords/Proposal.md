@@ -1,8 +1,8 @@
 ---
-title: {{title}}
+title: Proposal
 tag:
 aliases:
-- 
+- Research Proposal
 ---
 
 metadata:
@@ -11,4 +11,4 @@ metadata:
 
 ---
 
-# {{title}}
+# Proposal

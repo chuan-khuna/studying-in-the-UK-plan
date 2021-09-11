@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: WRW
 tag:
 aliases:
 - 
@@ -11,4 +11,4 @@ metadata:
 
 ---
 
-# {{title}}
+# WRW

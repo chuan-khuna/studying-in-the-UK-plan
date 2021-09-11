@@ -1,8 +1,6 @@
 ---
-title: {{title}}
+title: PhD
 tag:
-aliases:
-- 
 ---
 
 metadata:
@@ -11,4 +9,4 @@ metadata:
 
 ---
 
-# {{title}}
+# PhD

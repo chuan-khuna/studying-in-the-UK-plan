@@ -1,14 +1,14 @@
 ---
-title: {{title}}
+title: Curriculum Vitae
 tag:
 aliases:
-- 
+- CV
 ---
 
 metadata:
 - references:
 - related to:
-
+- #keyword 
 ---
 
-# {{title}}
+# Curriculum Vitae

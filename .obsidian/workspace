@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c8ee058f10f0e1",
+        "id": "5739716855b6a4d2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Plan 202109.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -56,8 +59,51 @@
     "type": "split",
     "children": [
       {
+        "id": "e92263562d23090c",
+        "type": "tabs",
+        "dimension": 32.00398803589233,
+        "children": [
+          {
+            "id": "a9b2b82e5ecb864c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Plan 202109.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7947214832364369,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "296c099b2a0f897e",
         "type": "tabs",
+        "dimension": 67.99601196410768,
         "children": [
           {
             "id": "228e41ab3b51c0e1",
@@ -65,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Plan 202109.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Plan 202109.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,11 +149,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 340,
     "collapsed": true
   },
-  "active": "f5c8ee058f10f0e1",
+  "active": "5739716855b6a4d2",
   "lastOpenFiles": [
-    "Templates/Untitled.md"
+    "Notes/Plan 202109.md",
+    "Daily/2021-09-11.md",
+    "Notes/NCC.md",
+    "Keywords/The University of Sheffield.md",
+    "The University of Sheffield.md",
+    "Notes/WRW.md",
+    "Notes/Multi-Demensional Climate Data Visualisation and Bias Correction.md",
+    "Keywords/Supervisor.md",
+    "DRS.md",
+    "WRW.md"
   ]
 }

@@ -1,8 +1,6 @@
 ---
-title: {{title}}
+title: England
 tag:
-aliases:
-- 
 ---
 
 metadata:
@@ -11,4 +9,4 @@ metadata:
 
 ---
 
-# {{title}}
+# England
