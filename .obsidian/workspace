@@ -7,8 +7,11 @@
         "id": "9a136e7c6beb1cd2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2021-09-11.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily/2021-09-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2021-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2021-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,15 +154,15 @@
   },
   "active": "9a136e7c6beb1cd2",
   "lastOpenFiles": [
-    "Notes/Courses-Universities/The University of Sheffield.md",
-    "Notes/Untitled.md",
+    "Daily/2021-09-11.md",
     "Notes/Plan 202109.md",
-    "Recommedation letter.md",
-    "Keywords/The University of Sheffield.md",
-    "Guide-Article/ApplyingProcess/6. Prepare for your stay.md",
-    "Guide-Article/ApplyingProcess/5. Apply for a visa.md",
-    "Guide-Article/ApplyingProcess/4. Arrange funding.md",
-    "Guide-Article/ApplyingProcess/3. Accept your offer.md",
-    "Guide-Article/ApplyingProcess/2. Register and apply.md"
+    "Notes/Phattharanat Khunakornophat.md",
+    "Notes/Multi-Demensional Climate Data Visualisation and Bias Correction.md",
+    "Notes/DRS.md",
+    "Notes/§Courses-Syllabus-Outline-Page.md",
+    "Keywords/Undergraduate.md",
+    "Keywords/Postgraduate.md",
+    "Notes/Untitled.md",
+    "Notes/Courses-Universities/The University of Sheffield.md"
   ]
 }
