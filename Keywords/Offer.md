@@ -12,3 +12,7 @@ metadata:
 ---
 
 # Offer
+
+[[Conditional Offer]]
+
+[[Unconditional Offer]]

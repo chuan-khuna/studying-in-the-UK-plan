@@ -1,14 +1,17 @@
 ---
-title: Resident
+title: VISA
 tag:
+- keyword
 aliases:
-- Resident VISA
+- 
 ---
 
 metadata:
 - references:
 - related to:
-	- #keyword 
+
 ---
 
-# Resident (VISA)
+# VISA
+
+- [[Resident|Resident VISA]]

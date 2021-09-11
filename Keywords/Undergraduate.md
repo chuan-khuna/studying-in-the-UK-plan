@@ -1,14 +1,15 @@
 ---
-title: Resident
+title: Undergraduate
 tag:
+- keyword
 aliases:
-- Resident VISA
+- 
 ---
 
 metadata:
 - references:
 - related to:
-	- #keyword 
+
 ---
 
-# Resident (VISA)
+# Undergraduate (degree)

@@ -1,14 +1,15 @@
 ---
-title: Resident
+title: Postgraduate
 tag:
+- keyword
 aliases:
-- Resident VISA
+- 
 ---
 
 metadata:
 - references:
 - related to:
-	- #keyword 
+
 ---
 
-# Resident (VISA)
+# Postgraduate (degree)

@@ -1,6 +1,7 @@
 ---
 title: The University of Sheffield
 tag:
+- university
 aliases:
 - 
 ---

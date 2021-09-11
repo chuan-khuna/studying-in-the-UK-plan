@@ -1,14 +1,14 @@
 ---
-title: Resident
+title: Conditional Offer
 tag:
 aliases:
-- Resident VISA
+- 
 ---
 
 metadata:
 - references:
 - related to:
-	- #keyword 
+
 ---
 
-# Resident (VISA)
+# Conditional Offer

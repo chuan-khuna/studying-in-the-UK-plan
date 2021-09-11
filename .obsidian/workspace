@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5739716855b6a4d2",
+        "id": "9a136e7c6beb1cd2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Plan 202109.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Plan 202109.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Plan 202109.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Plan 202109.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +146,17 @@
     "width": 340,
     "collapsed": true
   },
-  "active": "5739716855b6a4d2",
+  "active": "9a136e7c6beb1cd2",
   "lastOpenFiles": [
+    "Notes/Courses-Universities/The University of Sheffield.md",
+    "Notes/Untitled.md",
     "Notes/Plan 202109.md",
-    "Daily/2021-09-11.md",
-    "Notes/NCC.md",
+    "Recommedation letter.md",
     "Keywords/The University of Sheffield.md",
-    "The University of Sheffield.md",
-    "Notes/WRW.md",
-    "Notes/Multi-Demensional Climate Data Visualisation and Bias Correction.md",
-    "Keywords/Supervisor.md",
-    "DRS.md",
-    "WRW.md"
+    "Guide-Article/ApplyingProcess/6. Prepare for your stay.md",
+    "Guide-Article/ApplyingProcess/5. Apply for a visa.md",
+    "Guide-Article/ApplyingProcess/4. Arrange funding.md",
+    "Guide-Article/ApplyingProcess/3. Accept your offer.md",
+    "Guide-Article/ApplyingProcess/2. Register and apply.md"
   ]
 }
