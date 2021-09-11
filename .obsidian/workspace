@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a136e7c6beb1cd2",
+        "id": "b6d7dac0ffea2c50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily/2021-09-11.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4d246e0b9f6db0f3",
@@ -69,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2021-09-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -111,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2021-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2021-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +147,17 @@
     "width": 340,
     "collapsed": true
   },
-  "active": "9a136e7c6beb1cd2",
+  "active": "b6d7dac0ffea2c50",
   "lastOpenFiles": [
+    "Notes/Courses-Universities/The University of Sheffield - MSc  Data Science.md",
+    "Notes/Courses-Universities/University of London - MSc Data Science.md",
+    "Notes/Courses-Universities/University of Reading.md",
+    "Notes/Courses-Universities/University of Reading - MSc DATA SCIENCE AND ADVANCED COMPUTING.md",
     "Daily/2021-09-11.md",
-    "Notes/Plan 202109.md",
     "Notes/Phattharanat Khunakornophat.md",
-    "Notes/Multi-Demensional Climate Data Visualisation and Bias Correction.md",
-    "Notes/DRS.md",
-    "Notes/§Courses-Syllabus-Outline-Page.md",
-    "Keywords/Undergraduate.md",
+    "Notes/Plan 202109.md",
+    "Notes/Courses-Universities/Untitled.md",
     "Keywords/Postgraduate.md",
-    "Notes/Untitled.md",
     "Notes/Courses-Universities/The University of Sheffield.md"
   ]
 }

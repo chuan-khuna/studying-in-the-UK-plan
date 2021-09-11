@@ -29,7 +29,7 @@ metadata:
 - Data Visualisation
 - [[Data Science]]
 - NLP
-- Python, R, I would love to using programming languages rather than tools.
+- Python, R, I would love to use programming languages rather than tools.
 
 
 ## ETC.

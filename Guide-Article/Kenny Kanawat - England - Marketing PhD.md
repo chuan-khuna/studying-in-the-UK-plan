@@ -67,6 +67,8 @@ Route นี้ไม่ง่ายถ้าไม่ใช่สาย Pure Ac
 
 สุดท้ายได้ทุนรอบที่สี่ ใช้เวลาและโดนปฎิเสธเยอะพอสมควร แต่มันก็คุ้มค่าในสิ่งที่อยากได้ เพราะไม่ต้องกังวลเรื่องค่าครองชีพที่อังกฤษ และที่สำคัญคือ ไม่ต้องใช้ทุนคืน (ผมได้ทุน PhD ทำเปเปอร์เรื่อง "Marketing Sustainability" ที่ Reading ครับ)
 
+[[University of Reading]]
+
 ใครอยู่สาย Academic ที่อังกฤษ, กำลังอยาก Apply หรือ ทำเปเปอร์สายนี้ แอดมาคุยเล่น หรือ ติดตามผ่าน [Marketing Everyday](https://www.facebook.com/groups/456929628904615/user/100046721690662/?__cft__[0]=AZXpoZVPvwYtuY5Bb745tHMANH2kuVjADndS716I9zeYmu6SSyMPid_LuFtjx0mlaUZ4nHZe3qBs8CUMQUFKD614ha9WMUkHfwhMaxtsye-_aJYc-KPAGxyrz9k9U8tJbKRUQK1nyFuMyaet1caPOVNu&__tn__=-]K-R) ได้ครับ
 
 ปล.

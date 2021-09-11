@@ -9,7 +9,7 @@ aliases:
 metadata:
 - references:
 - related to:
-
+	- [[Master Degree]] [[PhD]]
 ---
 
 # Postgraduate (degree)

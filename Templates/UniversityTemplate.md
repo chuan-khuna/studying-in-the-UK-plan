@@ -1,5 +1,5 @@
 ---
-title: The University of Sheffield
+title: {{title}}
 tag:
 - university
 aliases:
@@ -12,4 +12,4 @@ metadata:
 
 ---
 
-# The University of Sheffield
+# {{title}}

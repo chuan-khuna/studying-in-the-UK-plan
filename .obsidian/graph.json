@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path: Template",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:Notes",
+      "query": "path:Notes/Courses-Universities",
       "color": {
         "a": 1,
         "rgb": 16739420
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Notes",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10.1041666666667,
   "linkStrength": 0.75,
   "linkDistance": 282,
-  "scale": 0.47874128304282626,
+  "scale": 0.3426423350529727,
   "close": true
 }

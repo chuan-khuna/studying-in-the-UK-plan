@@ -1,5 +1,5 @@
 ---
-title: The University of Sheffield
+title: Lancaster University
 tag:
 - university
 aliases:
@@ -12,4 +12,4 @@ metadata:
 
 ---
 
-# The University of Sheffield
+# Lancaster University
