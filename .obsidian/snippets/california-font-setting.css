@@ -1,0 +1,7 @@
+/* for california coast */
+
+:root{
+  /* --text: "MonoLisa", monospace; */
+  --text-editor: "MonoLisa", "Inconsolata", monospace;
+  --font-monospace: "OperatorMono", "Inconsolata", monospace;
+}
