@@ -13,24 +13,17 @@ metadata:
 
 # Phattharanat Khunakornophat
 
-## Education
+- [[I graduated in Bachelor Degree of Computer Engineering from KMUTNB]]. and [[I achieved first class honours, GPAX 3.83]]
+- senior project: [[Multi-Demensional Climate Data Visualisation and Bias Correction]]
+- [[I am interested in ... areas]]
 
-- Bachelor Degree of [[Computer Engineering Degree]]
-	- first classs honours, 3.83
-	- graduated year: APR 2020
-	- academic year: 2016-2019
+# Skills/Experience/Achievements
+- [[I achieved first class honours, GPAX 3.83]]
+- [[I achieved Tensorflow Developer Certificate]]
 
-## Projects
-- [[Multi-Demensional Climate Data Visualisation and Bias Correction]]
-
-## Interest
-- climate science
-- Epidemiology
-- Data Visualisation
-- [[Data Science]]
-- NLP
-- Python, R, I would love to use programming languages rather than tools.
-
+# Have to do/to-do lists #todo
+- [[I have to prepare for IELTS academic overall 6.5+]] #todo
+- [[I have to decide what project-research I am going to do]] #todo 
 
 ## ETC.
 - no working experience in [[Data Science]] areas.

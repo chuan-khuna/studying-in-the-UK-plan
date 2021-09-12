@@ -1,7 +1,7 @@
 ---
-title: {{date}}
+title: {{title}}
 tag:
 - 
 ---
 
-# {{date}}
+# {{title}}
